@@ -1,10 +1,10 @@
 # Projeto para disciplina de Algoritmos e Estruturas de Dados I
 Prof. Rafael Liberato.   
 Curso Bacharelado em Ciências da Computação na UTFPR de Campo Mourão.     
-Feito por **Ruan C. S. Azevedo**, **Alexandre Nassar de Peder**, **Nicole Poli Gasparello** e **Luiz Corumba**.
+Feito por **Ruan C. S. Azevedo**, **Alexandre Nassar de Peder**, **Nicole Polli Gasparello** e **Luiz Corumba**.
 
 
-# Ilustração do funcionameno do programa
+# Ilustração do funcionamento do programa
 Feito por Prof. **Rafael Liberato**
 
 Seguem alguns exemplos do comportamento esperado para o gerenciador.
